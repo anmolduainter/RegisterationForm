@@ -26,3 +26,19 @@ p{
 .vidya-check{
 	font-family: 'Averia Sans Libre', cursive;
 }
+
+#course{
+
+   font-family: 'Lateef';
+   font-size: 20px;
+
+}
+
+input[type="submit"]{
+	width: 600px;
+	height: 60px;
+	text-align: center;
+	color: white;
+	background-color: #FC4F4F;
+	font-weight: bold;
+}
